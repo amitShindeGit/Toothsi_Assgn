@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Toothsi_Assgn/static/css/main.c624ecfe.css",
+    "main.js": "/Toothsi_Assgn/static/js/main.4fa27d2e.js",
+    "static/js/787.6cbc997a.chunk.js": "/Toothsi_Assgn/static/js/787.6cbc997a.chunk.js",
+    "index.html": "/Toothsi_Assgn/index.html",
+    "main.c624ecfe.css.map": "/Toothsi_Assgn/static/css/main.c624ecfe.css.map",
+    "main.4fa27d2e.js.map": "/Toothsi_Assgn/static/js/main.4fa27d2e.js.map",
+    "787.6cbc997a.chunk.js.map": "/Toothsi_Assgn/static/js/787.6cbc997a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c624ecfe.css",
+    "static/js/main.4fa27d2e.js"
+  ]
+}
